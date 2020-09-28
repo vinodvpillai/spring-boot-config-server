@@ -1,1 +1,1 @@
-# spring-boot-config-server
+# spring-cloud-config-property
